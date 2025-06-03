@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bc54bdf6-4fa6-4de9-a2db-5dc6a58bb603"
+      }
+    },
+    "owner": "tiagocarnevalli"
   }
 }
